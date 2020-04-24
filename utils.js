@@ -9,9 +9,13 @@ button.addEventListener('click',function(){
 })
 function openNav() {
  document.getElementById('mysidenav').style.width='100%';
+  document.getElementById('mysidenav').style.opacity='90%';
+
 }
 
 function closeNav() {
     document.getElementById('mysidenav').style.width='0';
+    document.getElementById('mysidenav').style.opacity='100%';
+
    }
    

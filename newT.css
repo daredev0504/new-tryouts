@@ -240,6 +240,7 @@ label {
   }
   .search input{
     width:50%;
+    padding: .4em 0;
   }
 
 main{
